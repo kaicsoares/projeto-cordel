@@ -71,7 +71,7 @@ section.normal{
 section.imagem{
     background-color: rgb(46, 35, 35);
     color: white;
-    background-image: url("../imagens/background001.jpg");
+    background-image: url("/imagens/background001.jpg");
     background-repeat: no-repeat;
     background-position: right center;
     background-attachment: fixed;
@@ -88,7 +88,7 @@ section.imagem > p {
 }
 
 section#livro{
-    background-image: url("../imagens/background002.jpg");
+    background-image: url("/imagens/background002.jpg");
 }
 
 footer {
